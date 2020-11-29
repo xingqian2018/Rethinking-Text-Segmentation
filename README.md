@@ -30,7 +30,7 @@ Text in the real world is extremely diverse, yet current text dataset does not r
 
 In this table, we report the performance of our TexRNet on 5 text segmentation dataset including ours. 
 
-<font size="11" face="Courier New">
+<font size="10" face="Courier New">
 <table>
   <tr>
     <td></td>
